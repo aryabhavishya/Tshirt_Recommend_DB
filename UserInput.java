@@ -1,4 +1,4 @@
-package com.naehas.HibernateSample;
+package com.naehas.hibernatesample;
 
 import java.util.Scanner;
 

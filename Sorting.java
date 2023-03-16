@@ -1,4 +1,4 @@
-package com.naehas.HibernateSample;
+package com.naehas.hibernatesample;
 import org.hibernate.Query;
 
 import java.util.List;

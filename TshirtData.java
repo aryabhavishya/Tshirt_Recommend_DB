@@ -1,4 +1,4 @@
-package com.naehas.HibernateSample;
+package com.naehas.hibernatesample;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

@@ -1,4 +1,4 @@
-package com.naehas.HibernateSample;
+package com.naehas.hibernatesample;
 public class App 
 {
 	// Creating Class Members About User Input
